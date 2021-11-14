@@ -21,4 +21,6 @@ print("The minimum value of all the elements in the list is",minimum) #minimum v
 mean = summation/count_ter
 print("The mean value of the elements in the list is",mean) #mean will be shown
 
+# "it looks like I learned how to use git today"
+
 print( "End")
